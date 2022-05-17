@@ -18,6 +18,7 @@ Email your resume or necessary details to **`shimron.alakkal1804@gmail.com`**
 > ### Backend and API developer
 > > Experienced in tech like django, flask, or FastAPI. 
   > Real world project developed is a major advantage.
+  > Knowledge of flutter is a major plus.
   > Should be able to make performance oriented apps over fancy looking apps.
   > should be familiar with JS and other front-end tools.
 
